@@ -111,7 +111,7 @@ form.addEventListener("submit", function (e) {
   }
 
   const formData = {
-    access_key: "6e219542-1b48-4364-9994-4cb1fd6118a3", // Your Web3Forms API key
+    access_key: "308cd8e2-623a-492e-b508-9481b17c809b", // Your Web3Forms API key
     name: name.value,
     phone: phone.value,
     email: email.value,
